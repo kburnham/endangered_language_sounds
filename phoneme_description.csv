@@ -1,0 +1,922 @@
+phoneme,description,description_fixed
+kpW,labialized voiceless labio-velar plosive,labialized voiceless labial-velar plosive
+gbW,labialized voiced labio-velar plosive,labialized voiced labial-velar plosive
+Nmgb,prenasalized voiced labial-velar plosive,prenasalized voiced labial-velar plosive
+kph,voiceless aspirated labial-velar plosive,voiceless aspirated labial-velar plosive
+kp,voiceless labial-velar plosive,voiceless labial-velar plosive
+gb,voiced labial-velar plosive,voiced labial-velar plosive
+pW-h,labialized velarized voiceless aspirated bilabial plosive,labialized velarized voiceless aspirated bilabial plosive
+bW-,labialized velarized voiced bilabial plosive,labialized velarized voiced bilabial plosive
+mbW,prenasalized labialized voiced bilabial plosive,prenasalized labialized voiced bilabial plosive
+pW,labialized voiceless bilabial plosive,labialized voiceless bilabial plosive
+bW,labialized voiced bilabial plosive,labialized voiced bilabial plosive
+mbJ,prenasalized palatalized voiced bilabial plosive,prenasalized palatalized voiced bilabial plosive
+pJh,palatalized voiceless aspirated bilabial plosive,palatalized voiceless aspirated bilabial plosive
+pJ,palatalized voiceless bilabial plosive,palatalized voiceless bilabial plosive
+bJh,palatalized breathy voiced bilabial plosive,palatalized breathy voiced bilabial plosive
+bJ,palatalized voiced bilabial plosive,palatalized voiced bilabial plosive
+mph,prenasalized voiceless aspirated bilabial plosive,prenasalized voiceless aspirated bilabial plosive
+mp,prenasalized voiceless bilabial plosive,prenasalized voiceless bilabial plosive
+mb,prenasalized voiced bilabial plosive,prenasalized voiced bilabial plosive
+bm,nasally-released voiced bilabial plosive,nasally-released voiced bilabial plosive
+ph,voiceless aspirated bilabial plosive,voiceless aspirated bilabial plosive
+p*,laryngealized voiceless bilabial plosive,laryngealized voiceless bilabial plosive
+p:,long voiceless bilabial plosive,long voiceless bilabial plosive
+phh,voiceless bilabial plosive with breathy release,voiceless bilabial plosive with breathy release
+hp,voiceless preaspirated bilabial plosive,voiceless preaspirated bilabial plosive
+p,voiceless bilabial plosive,voiceless bilabial plosive
+b*,laryngealized voiced bilabial plosive,laryngealized voiced bilabial plosive
+b:,long voiced bilabial plosive,long voiced bilabial plosive
+bh,breathy voiced bilabial plosive,breathy voiced bilabial plosive
+b,voiced bilabial plosive,voiced bilabial plosive
+bD,voiced labiodental plosive,voiced labiodental plosive
+tDJ,palatalized voiceless dental plosive,palatalized voiceless dental plosive
+dDJ,palatalized voiced dental plosive,palatalized voiced dental plosive
+tD9,pharyngealized voiceless dental plosive,pharyngealized voiceless dental plosive
+dD9,pharyngealized voiced dental plosive,pharyngealized voiced dental plosive
+ntDh,prenasalized voiceless aspirated dental plosive,prenasalized voiceless aspirated dental plosive
+ntD,prenasalized voiceless dental plosive,prenasalized voiceless dental plosive
+ndD,prenasalized voiced dental plosive,prenasalized voiced dental plosive
+dDn,nasally released voiced dental plosive,nasally-released voiced dental plosive
+tDh,voiceless aspirated dental plosive,voiceless aspirated dental plosive
+tD*,laryngealized voiceless dental plosive,laryngealized voiceless dental plosive
+tDhh,voiceless dental plosive with breathy release,voiceless dental plosive with breathy release
+tD,voiceless dental plosive,voiceless dental plosive
+dD*,laryngealized voiced dental plosive,laryngealized voiced dental plosive
+dDh,breathy voiced dental plosive,breathy voiced dental plosive
+dD,voiced dental plosive,voiced dental plosive
+"""ndW",prenasalized labialized voiced dental/alveolar plosive,prenasalized labialized voiced dental/alveolar plosive
+"""tWh",labialized voiceless aspirated dental/alveolar plosive,labialized voiceless aspirated dental/alveolar plosive
+"""tW",labialized voiceless dental/alveolar plosive,labialized voiceless dental/alveolar plosive
+"""dW",labialized voiced dental/alveolar plosive,labialized voiced dental/alveolar plosive
+"""ndJ",prenasalized palatalized voiced dental/alveolar plosive,prenasalized palatalized voiced dental/alveolar plosive
+"""tJh",palatalized voiceless aspirated dental/alveolar plosive,palatalized voiceless aspirated dental/alveolar plosive
+"""tJ",palatalized voiceless dental/alveolar plosive,palatalized voiceless dental/alveolar plosive
+"""dJ",palatalized voiced dental/alveolar plosive,palatalized voiced dental/alveolar plosive
+"""t-h",velarized voiceless aspirated dental/alveolar plosive,velarized voiceless aspirated dental/alveolar plosive
+"""t9",pharyngealized voiceless dental/alveolar plosive,pharyngealized voiceless dental/alveolar plosive
+"""d9",pharyngealized voiced dental/alveolar plosive,pharyngealized voiced dental/alveolar plosive
+"""nt",prenasalized voiceless dental/alveolar plosive,prenasalized voiceless dental/alveolar plosive
+"""nd",prenasalized voiced dental/alveolar plosive,prenasalized voiced dental/alveolar plosive
+"""th",voiceless aspirated dental/alveolar plosive,voiceless aspirated dental/alveolar plosive
+"""t*",laryngealized voiceless dental/alveolar plosive,laryngealized voiceless dental/alveolar plosive
+"""t:",long voiceless dental/alveolar plosive,long voiceless dental/alveolar plosive
+"""thh",voiceless dental/alveolar plosive with breathy release,voiceless dental/alveolar plosive with breathy release
+"""t",voiceless dental/alveolar plosive,voiceless dental/alveolar plosive
+"""d*",laryngealized voiced dental/alveolar plosive,laryngealized voiced dental/alveolar plosive
+"""dh",breathy voiced dental/alveolar plosive,breathy voiced dental/alveolar plosive
+"""d",voiced dental/alveolar plosive,voiced dental/alveolar plosive
+ndJ,prenasalized palatalized voiced alveolar plosive,prenasalized palatalized voiced alveolar plosive
+tJ,palatalized voiceless alveolar plosive,palatalized voiceless alveolar plosive
+dJ,palatalized voiced alveolar plosive,palatalized voiced alveolar plosive
+t-,velarized voiceless alveolar plosive,velarized voiceless alveolar plosive
+d-,velarized voiced alveolar plosive,velarized voiced alveolar plosive
+nt,prenasalized voiceless alveolar plosive,prenasalized voiceless alveolar plosive
+nd,prenasalized voiced alveolar plosive,prenasalized voiced alveolar plosive
+dn,nasally-released voiced alveolar plosive,nasally-released voiced alveolar plosive
+th,voiceless aspirated alveolar plosive,voiceless aspirated alveolar plosive
+t:,long voiceless alveolar plosive,long voiceless alveolar plosive
+thh,voiceless alveolar plosive with breathy release,voiceless alveolar plosive with breathy release
+ht,voiceless preaspirated alveolar plosive,voiceless preaspirated alveolar plosive
+t,voiceless alveolar plosive,voiceless alveolar plosive
+d*,laryngealized voiced alveolar plosive,laryngealized voiced alveolar plosive
+d,voiced alveolar plosive,voiced alveolar plosive
+nt_,prenasalized voiceless palato-alveolar plosive,prenasalized voiceless palato-alveolar plosive
+nd_,prenasalized voiced palato-alveolar plosive,prenasalized voiced palato-alveolar plosive
+d_n,nasally-released voiced palato-alveolar plosive,nasally-released voiced palato-alveolar plosive
+t_h,voiceless aspirated palato-alveolar plosive,voiceless aspirated palato-alveolar plosive
+t_,voiceless palato-alveolar plosive,voiceless palato-alveolar plosive
+d_*,laryngealized voiced palato-alveolar plosive,laryngealized voiced palato-alveolar plosive
+d_,voiced palato-alveolar plosive,voiced palato-alveolar plosive
+nt.,prenasalized voiceless retroflex plosive,prenasalized voiceless retroflex plosive
+nd.,prenasalized voiced retroflex plosive,prenasalized voiced retroflex plosive
+d.n,nasally-released voiced retroflex plosive,nasally-released voiced retroflex plosive
+t.h,voiceless aspirated retroflex plosive,voiceless aspirated retroflex plosive
+t.*,laryngealized voiceless retroflex plosive,laryngealized voiceless retroflex plosive
+t.,voiceless retroflex plosive,voiceless retroflex plosive
+d.*,laryngealized voiced retroflex plosive,laryngealized voiced retroflex plosive
+d.h,breathy voiced retroflex plosive,breathy voiced retroflex plosive
+d.,voiced retroflex plosive,voiced retroflex plosive
+nc,prenasalized voiceless palatal plosive,prenasalized voiceless palatal plosive
+ndj,prenasalized voiced palatal plosive,prenasalized voiced palatal plosive
+ch,voiceless aspirated palatal plosive,voiceless aspirated palatal plosive
+c:,long voiceless palatal plosive,long voiceless palatal plosive
+c,voiceless palatal plosive,voiceless palatal plosive
+dj*,laryngealized voiced palatal plosive,laryngealized voiced palatal plosive
+dj:,long voiced palatal plosive,long voiced palatal plosive
+dj,voiced palatal plosive,voiced palatal plosive
+NkW,prenasalized labialized voiceless velar plosive,prenasalized labialized voiceless velar plosive
+NgW,prenasalized labialized voiced velar plosive,prenasalized labialized voiced velar plosive
+kWh,labialized voiceless aspirated velar plosive,labialized voiceless aspirated velar plosive
+kW*,laryngealized labialized voiceless velar plosive,laryngealized labialized voiceless velar plosive
+kW:,long labialized voiceless velar plosive,long labialized voiceless velar plosive
+kW,labialized voiceless velar plosive,labialized voiceless velar plosive
+gWh,labialized breathy voiced velar plosive,labialized breathy voiced velar plosive
+gW,labialized voiced velar plosive,labialized voiced velar plosive
+NkJ,prenasalized palatalized voiceless velar plosive,prenasalized palatalized voiceless velar plosive
+kJh,palatalized voiceless aspirated velar plosive,palatalized voiceless aspirated velar plosive
+kJ,palatalized voiceless velar plosive,palatalized voiceless velar plosive
+gJ,palatalized voiced velar plosive,palatalized voiced velar plosive
+k9,pharyngealized voiceless velar plosive,pharyngealized voiceless velar plosive
+Nkh,prenasalized voiceless aspirated velar plosive,prenasalized voiceless aspirated velar plosive
+Nk,prenasalized voiceless velar plosive,prenasalized voiceless velar plosive
+Ng,prenasalized voiced velar plosive,prenasalized voiced velar plosive
+gn,nasally-released voiced velar plosive,nasally-released voiced velar plosive
+gL,laterally-released voiced velar plosive,laterally-released voiced velar plosive
+kh,voiceless aspirated velar plosive,voiceless aspirated velar plosive
+k*,laryngealized voiceless velar plosive,laryngealized voiceless velar plosive
+k:,long voiceless velar plosive,long voiceless velar plosive
+khh,voiceless velar plosive with breathy release,voiceless velar plosive with breathy release
+hk,voiceless preaspirated velar plosive,voiceless preaspirated velar plosive
+k,voiceless velar plosive,voiceless velar plosive
+gh,breathy voiced velar plosive,breathy voiced velar plosive
+g,voiced velar plosive,voiced velar plosive
+qW9h,labialized pharyngealized voiceless aspirated uvular plosive,labialized pharyngealized voiceless aspirated uvular plosive
+GW9,labialized pharyngealized voiced uvular plosive,labialized pharyngealized voiced uvular plosive
+qWh,labialized voiceless aspirated uvular plosive ,labialized voiceless aspirated uvular plosive 
+qW*,laryngealized labialized voiceless uvular plosive,laryngealized labialized voiceless uvular plosive
+qW:,long labialized voiceless uvular plosive ,long labialized voiceless uvular plosive 
+qW,labialized voiceless uvular plosive ,labialized voiceless uvular plosive 
+GW,labialized voiced uvular plosive ,labialized voiced uvular plosive 
+q9h,pharyngealized voiceless aspirated uvular plosive,pharyngealized voiceless aspirated uvular plosive
+G9,pharyngealized voiced uvular plosive,pharyngealized voiced uvular plosive
+Nqh,prenasalized voiceless aspirated uvular plosive,prenasalized voiceless aspirated uvular plosive
+Nq,prenasalized voiceless uvular plosive,prenasalized voiceless uvular plosive
+qh,voiceless aspirated uvular plosive ,voiceless aspirated uvular plosive 
+q*,laryngealized voiceless uvular plosive,laryngealized voiceless uvular plosive
+q:,long voiceless uvular plosive,long voiceless uvular plosive
+q,voiceless uvular plosive ,voiceless uvular plosive 
+G,voiced uvular plosive ,voiced uvular plosive 
+99,voiced pharyngeal plosive ,voiced pharyngeal plosive 
+?W,labialized glottal plosive ,labialized voiceless glottal plosive 
+?9,pharyngealized glottal plosive ,pharyngealized voiceless glottal plosive 
+?,glottal plosive ,voiceless glottal plosive 
+??,voiced glottal plosive,voiced voiceless glottal plosive
+bJ<,palatalized voiced bilabial implosive,palatalized voiced bilabial implosive
+p<,voiceless bilabial implosive,voiceless bilabial implosive
+b<,voiced bilabial implosive,voiced bilabial implosive
+dD<,voiced dental implosive,voiced dental implosive
+"""d<",voiced dental/alveolar implosive,voiced dental/alveolar implosive
+t<,voiceless alveolar implosive,voiceless alveolar implosive
+d<,voiced alveolar implosive,voiced alveolar implosive
+d_<,voiced palato-alveolar implosive,voiced palato-alveolar implosive
+d.<,voiced retroflex implosive,voiced retroflex implosive
+dj<,voiced palatal implosive,voiced palatal implosive
+g<,voiced velar implosive,voiced velar implosive
+q<,voiceless uvular implosive,voiceless uvular implosive
+G<,voiced uvular implosive,voiced uvular implosive
+p',voiceless bilabial ejective stop,voiceless bilabial ejective stop
+b',voiced bilabial ejective stop,voiced bilabial ejective stop
+tD',voiceless dental ejective stop,voiceless dental ejective stop
+"""t'",voiceless dental/alveolar ejective stop,voiceless dental/alveolar ejective stop
+t',voiceless alveolar ejective stop,voiceless alveolar ejective stop
+d',voiced alveolar ejective stop,voiced alveolar ejective stop
+c',voiceless palatal ejective stop,voiceless palatal ejective stop
+kW',labialized voiceless velar ejective stop,labialized voiceless velar ejective stop
+kJ',palatalized voiceless velar ejective stop,palatalized voiceless velar ejective stop
+k',voiceless velar ejective stop,voiceless velar ejective stop
+g',voiced velar ejective stop,voiced velar ejective stop
+qW9',labialized pharyngealized voiceless uvular ejective stop,labialized pharyngealized voiceless uvular ejective stop
+qW',labialized voiceless uvular ejective stop,labialized voiceless uvular ejective stop
+q9',pharyngealized voiceless uvular ejective stop,pharyngealized voiceless uvular ejective stop
+q',voiceless uvular ejective stop,voiceless uvular ejective stop
+hn/x?,glottalized nasalized velarized voiceless alveolar click,glottalized nasalized velarized voiceless alveolar click
+/xh,velar-fricated voiceless aspirated alveolar click,velar-fricated voiceless aspirated alveolar click
+/x,velar-fricated voiceless alveolar click,velar-fricated voiceless alveolar click
+g/x?,glottalized velar-fricated voiced alveolar click,glottalized velar-fricated voiced alveolar click
+g/x,velar-fricated voiced alveolar click,velar-fricated voiced alveolar click
+hn/h,nasalized voiceless aspirated alveolar click,nasalized voiceless aspirated alveolar click
+hn/?,glottalized nasalized voiceless alveolar click,glottalized nasalized voiceless alveolar click
+n/h,nasalized breathy voiced alveolar click,nasalized breathy voiced alveolar click
+n/,nasalized voiced alveolar click,nasalized voiced alveolar click
+/h,voiceless aspirated alveolar click,voiceless aspirated alveolar click
+/,voiceless alveolar click,voiceless alveolar click
+g/h,breathy voiced alveolar click,breathy voiced alveolar click
+g/,voiced alveolar click,voiced alveolar click
+!xh,velar-fricated voiceless aspirated palato-alveolar click,velar-fricated voiceless aspirated palato-alveolar click
+hn!h,nasalized voiceless aspirated palato-alveolar click,nasalized voiceless aspirated palato-alveolar click
+hn!?,glottalized nasalized voiceless palato-alveolar click,glottalized nasalized voiceless palato-alveolar click
+n!,nasalized voiced palato-alveolar click,nasalized voiced palato-alveolar click
+!h,voiceless aspirated palatal-alveolar click,voiceless aspirated palato-alveolar click
+!?,glottalized voiceless palatal-alveolar click,glottalized voiceless palato-alveolar click
+!,voiceless palato-alveolar click,voiceless palato-alveolar click
+g!,voiced palatal-alveolar click,voiced palato-alveolar click
+hn/=x?,glottalized nasalized velar-fricated voiceless palatal click,glottalized nasalized velar-fricated voiceless palatal click
+/=x,velar-fricated voiceless palatal click,velar-fricated voiceless palatal click
+g/=x?,glottalized velar-fricated voiced palatal click,glottalized velar-fricated voiced palatal click
+g/=x,velar-fricated voiced palatal click,velar-fricated voiced palatal click
+hn/=h,nasalized voiceless aspirated palatal click,nasalized voiceless aspirated palatal click
+hn/=?,glottalized nasalized voiceless palatal click,glottalized nasalized voiceless palatal click
+n/=h,nasalized breathy voiced palatal click,nasalized breathy voiced palatal click
+n/=,nasalized voiced palatal click,nasalized voiced palatal click
+/=h,voiceless aspirated palatal click,voiceless aspirated palatal click
+/=,voiceless palatal click,voiceless palatal click
+g/=h,breathy voiced palatal click,breathy voiced palatal click
+g/=,voiced palatal click,voiced palatal click
+r[F,voiced alveolar fricative flap,voiced alveolar fricative flap
+"""rF",voiced dental/alveolar fricative trill,voiced dental/alveolar fricative trill
+iF,fricative high front unrounded vowel,fricative high front unrounded vowel
+uF,fricative high back rounded vowel,fricative high back rounded vowel
+uuF,fricative high back unrounded lip-compressed vowel,fricative high back unrounded lip-compressed vowel
+hlDFJ,palatalized voiceless dental lateral fricative,palatalized voiceless dental lateral fricative
+lDFJ,palatalized voiced dental lateral fricative,palatalized voiced dental lateral fricative
+hlDF:,long voiceless dental lateral fricative,long voiceless dental lateral fricative
+hlDF,voiceless dental lateral fricative,voiceless dental lateral fricative
+lDF,voiced dental lateral fricative,voiced dental lateral fricative
+"""hlFW:",long labialized voiceless dental/alveolar lateral fricative,long labialized voiceless dental/alveolar lateral fricative
+"""hlFW",labialized voiceless dental/alveolar lateral fricative,labialized voiceless dental/alveolar lateral fricative
+"""hlFJ",palatalized voiceless dental/alveolar lateral fricative,palatalized voiceless dental/alveolar lateral fricative
+"""hlF:",long voiceless dental/alveolar lateral fricative,long voiceless dental/alveolar lateral fricative
+"""hlF",voiceless dental/alveolar lateral fricative,voiceless dental/alveolar lateral fricative
+"""lF",voiced dental/alveolar lateral fricative,voiced dental/alveolar lateral fricative
+hxlF,voiceless velar-alveolar lateral fricative,voiceless velar-alveolar lateral fricative
+hlFJ,palatalized voiceless alveolar lateral fricative,palatalized voiceless alveolar lateral fricative
+lFJ,palatalized voiced alveolar lateral fricative,palatalized voiced alveolar lateral fricative
+hlF,voiceless alveolar lateral fricative,voiceless alveolar lateral fricative
+lF,voiced alveolar lateral fricative,voiced alveolar lateral fricative
+l.F,voiced retroflex lateral fricative,voiced retroflex lateral fricative
+hLF,voiceless velar lateral fricative,voiceless velar lateral fricative
+sDJ,palatalized voiceless dental sibilant fricative,palatalized voiceless dental sibilant fricative
+zDJ,palatalized voiced sibilant dental fricative,palatalized voiced dental sibilant fricative
+sD9,pharyngealized voiceless dental sibilant fricative,pharyngealized voiceless dental sibilant fricative
+zD9,pharyngealized voiced dental sibilant fricative,pharyngealized voiced dental sibilant fricative
+nzD,prenasalized voiced dental sibilant fricative,prenasalized voiced dental sibilant fricative
+sD*,laryngealized voiceless dental sibilant fricative,laryngealized voiceless dental sibilant fricative
+sD,voiceless dental sibilant fricative,voiceless dental sibilant fricative
+zD,voiced dental sibilant fricative,voiced dental sibilant fricative
+"""sW:",long labialized voiceless dental/alveolar sibilant fricative,long labialized voiceless dental/alveolar sibilant fricative
+"""sW",labialized voiceless dental/alveolar sibilant fricative,labialized voiceless dental/alveolar sibilant fricative
+"""zW",labialized voiced dental/alveolar sibilant fricative,labialized voiced dental/alveolar sibilant fricative
+"""sJ",palatalized voiceless dental/alveolar sibilant fricative,palatalized voiceless dental/alveolar sibilant fricative
+"""zJ",palatalized voiced dental/alveolar sibilant fricative,palatalized voiced dental/alveolar sibilant fricative
+"""s9",pharyngealized voiceless dental/alveolar sibilant fricative,pharyngealized voiceless dental/alveolar sibilant fricative
+"""z9",pharyngealized voiced dental/alveolar sibilant fricative,pharyngealized voiced dental/alveolar sibilant fricative
+"""ns",prenasalized voiceless dental/alveolar sibilant fricative,prenasalized voiceless dental/alveolar sibilant fricative
+"""nz",prenasalized voiced dental/alveolar sibilant fricative,prenasalized voiced dental/alveolar sibilant fricative
+"""sh",voiceless aspirated dental/alveolar sibilant fricative,voiceless aspirated dental/alveolar sibilant fricative
+"""s:",long voiceless dental/alveolar sibilant fricative,long voiceless dental/alveolar sibilant fricative
+"""hs",voiceless preaspirated dental/alveolar sibilant fricative,voiceless preaspirated dental/alveolar sibilant fricative
+"""s",voiceless dental/alveolar sibilant fricative,voiceless dental/alveolar sibilant fricative
+"""z",voiced dental/alveolar sibilant fricative,voiced dental/alveolar sibilant fricative
+sJ,palatalized voiceless alveolar sibilant fricative,palatalized voiceless alveolar sibilant fricative
+s9,pharyngealized voiceless alveolar sibilant fricative,pharyngealized voiceless alveolar sibilant fricative
+nz,prenasalized voiced alveolar sibilant fricative,prenasalized voiced alveolar sibilant fricative
+s*,laryngealized voiceless alveolar sibilant fricative,laryngealized voiceless alveolar sibilant fricative
+s:,long voiceless alveolar sibilant fricative,long voiceless alveolar sibilant fricative
+s,voiceless alveolar sibilant fricative,voiceless alveolar sibilant fricative
+z,voiced alveolar sibilant fricative,voiced alveolar sibilant fricative
+SW:,long labialized voiceless palato-alveolar sibilant fricative,long labialized voiceless palato-alveolar sibilant fricative
+SW,labialized voiceless palato-alveolar sibilant fricative,labialized voiceless palato-alveolar sibilant fricative
+ZW,labialized voiced palatal-alveolar sibilant fricative,labialized voiced palato-alveolar sibilant fricative
+SJ,palatalized voiceless palato-alveolar sibilant fricative,palatalized voiceless palato-alveolar sibilant fricative
+ZJ,palatalized voiced palato-alveolar sibilant fricative,palatalized voiced palato-alveolar sibilant fricative
+S-,velarized voiceless palato-alveolar sibilant fricative,velarized voiceless palato-alveolar sibilant fricative
+Z-,velarized voiced palato-alveolar sibilant fricative,velarized voiced palato-alveolar sibilant fricative
+nZ,prenasalized voiced palato-alveolar sibilant fricative,prenasalized voiced palato-alveolar sibilant fricative
+S:,long voiceless palato-alveolar sibilant fricative,long voiceless palato-alveolar sibilant fricative
+hS,voiceless preaspirated palatal-alveolar sibilant fricative,voiceless preaspirated palato-alveolar sibilant fricative
+S,voiceless palato-alveolar sibilant fricative,voiceless palato-alveolar sibilant fricative
+Zh,breathy voiced palato-alveolar sibilant fricative,breathy voiced palato-alveolar sibilant fricative
+Z,voiced palato-alveolar sibilant fricative,voiced palato-alveolar sibilant fricative
+s.,voiceless retroflex sibilant fricative,voiceless retroflex sibilant fricative
+z.*,laryngealized voiced retroflex sibilant fricative,laryngealized voiced retroflex sibilant fricative
+z.,voiced retroflex sibilant fricative,voiced retroflex sibilant fricative
+"C,",voiceless palatal sibilant fricative,voiceless palatal sibilant fricative
+"z,",voiced palatal sibilant fricative,voiced palatal sibilant fricative
+PW-,labialized velarized voiceless bilabial fricative,labialized velarized voiceless bilabial fricative
+PW,labialized voiceless bilabial fricative,labialized voiceless bilabial fricative
+PJ,palatalized voiceless bilabial fricative,palatalized voiceless bilabial fricative
+BJ,palatalized voiced bilabial fricative,palatalized voiced bilabial fricative
+P,voiceless bilabial fricative,voiceless bilabial fricative
+B,voiced bilabial fricative,voiced bilabial fricative
+fW,labialized voiceless labiodental fricative,labialized voiceless labiodental fricative
+vW,labialized voiced labiodental fricative,labialized voiced labiodental fricative
+fJ,palatalized voiceless labio-dental fricative,palatalized voiceless labiodental fricative
+vJ,palatalized voiced labio-dental fricative,palatalized voiced labiodental fricative
+mv,prenasalized voiced labiodental fricative,prenasalized voiced labiodental fricative
+f:,long voiceless labio-dental fricative,long voiceless labiodental fricative
+f,voiceless labio-dental fricative,voiceless labiodental fricative
+vh,breathy voiced labiodental fricative,breathy voiced labiodental fricative
+v,voiced labio-dental fricative,voiced labiodental fricative
+6DJ,palatalized voiced dental fricative,palatalized voiced dental fricative
+0D,voiceless dental fricative,voiceless dental fricative
+6D,voiced dental fricative,voiced dental fricative
+"""6",voiced dental/alveolar fricative,voiced dental/alveolar fricative
+6,voiced alveolar fricative,voiced alveolar fricative
+0_,voiceless palato-alveolar fricative,voiceless palato-alveolar fricative
+6_,voiceless palato-alveolar fricative,voiced palato-alveolar fricative
+0.,voiceless retroflex fricative,voiceless retroflex fricative
+6.,voiced retroflex fricative,voiced retroflex fricative
+CW,labialized voiceless palatal fricative,labialized voiceless palatal fricative
+C,voiceless palatal fricative,voiceless palatal fricative
+jF,voiced palatal fricative,voiced palatal fricative
+xW:,long labialized voiceless velar fricative,long labialized voiceless velar fricative
+xW,labialized voiceless velar fricative,labialized voiceless velar fricative
+gFW,labialized voiced velar fricative,labialized voiced velar fricative
+xJ,palatalized voiceless velar fricative,palatalized voiceless velar fricative
+gFJ,palatalized voiced velar fricative,palatalized voiced velar fricative
+x:,long voiceless velar fricative,long voiceless velar fricative
+x,voiceless velar fricative,voiceless velar fricative
+gF*,laryngealized voiced velar fricative,laryngealized voiced velar fricative
+gF,voiced velar fricative,voiced velar fricative
+XW9:,long labialized pharyngealized voiceless uvular fricative,long labialized pharyngealized voiceless uvular fricative
+XW9,labialized pharyngealized voiceless uvular fricative,labialized pharyngealized voiceless uvular fricative
+RFW9,labialized pharyngealized voiced uvular fricative,labialized pharyngealized voiced uvular fricative
+XW:,long labialized voiceless uvular fricative,long labialized voiceless uvular fricative
+XW,labialized voiceless uvular fricative,labialized voiceless uvular fricative
+RFW,voiced uvular fricative,labialized voiceed uvular fricative
+X9:,long pharyngealized voiceless uvular fricative,long pharyngealized voiceless uvular fricative
+X9,pharyngealized voiceless uvular fricative,pharyngealized voiceless uvular fricative
+RF9,pharyngealized voiced uvular fricative,pharyngealized voiced uvular fricative
+X:,long voiceless uvular fricative,long voiceless uvular fricative
+X,voiceless uvular fricative,voiceless uvular fricative
+RF,voiced uvular fricative,voiced uvular fricative
+H,voiceless pharyngeal fricative,voiceless pharyngeal fricative
+9,voiced pharyngeal fricative,voiced pharyngeal fricative
+hlDFJ',palatalized voiceless dental lateral ejective fricative,palatalized voiceless dental lateral ejective fricative
+"""hlF'",voiceless dental/alveolar lateral ejective fricative,voiceless dental/alveolar lateral ejective fricative
+sD',voiceless dental sibilant ejective fricative,voiceless dental sibilant ejective fricative
+"""s'",voiceless dental/alveolar sibilant ejective fricative,voiceless dental/alveolar sibilant ejective fricative
+s',voiceless alveolar sibilant ejective fricative,voiceless alveolar sibilant ejective fricative
+S',voiceless palato-alveolar sibilant ejective fricative,voiceless palato-alveolar sibilant ejective fricative
+s.',voiceless retroflex sibilant ejective fricative,voiceless retroflex sibilant ejective fricative
+"C,'",voiceless palatal sibilant ejective fricative,voiceless palatal sibilant ejective fricative
+P',voiceless bilabial ejective fricative,voiceless bilabial ejective fricative
+f',voiceless labio-dental ejective fricative,voiceless labiodental ejective fricative
+xW',labialized voiceless velar ejective fricative,labialized voiceless velar ejective fricative
+x',voiceless velar ejective fricative,voiceless velar ejective fricative
+XW',labialized voiceless uvular ejective fricative,labialized voiceless uvular ejective fricative
+X',voiceless uvular ejective fricative,voiceless uvular ejective fricative
+t.r,voiceless retroflex affricated trill,voiceless retroflex affricated trill
+d.r,voiced retroflex affricated trill,voiced retroflex affricated trill
+"""tlFWh",labialized voiceless aspirated dental/alveolar lateral affricate,labialized voiceless aspirated dental/alveolar lateral affricate
+"""tlFh",voiceless aspirated dental/alveolar lateral affricate,voiceless aspirated dental/alveolar lateral affricate
+"""tlF*",laryngealized voiceless dental/alveolar lateral affricate,laryngealized voiceless dental/alveolar lateral affricate
+"""tlF:",long voiceless dental/alveolar lateral affricate,long voiceless dental/alveolar lateral affricate
+"""tlF",voiceless dental/alveolar lateral affricate,voiceless dental/alveolar lateral affricate
+"""dlF",voiced dental/alveolar lateral affricate,voiced dental/alveolar lateral affricate
+klF,voiceless velar plosive with alveolar lateral fricative release,voiceless velar plosive with alveolar lateral fricative release
+tlFh,voiceless aspirated alveolar lateral affricate,voiceless aspirated alveolar lateral affricate
+tlF,voiceless alveolar lateral affricate,voiceless alveolar lateral affricate
+dlF,voiced alveolar lateral affricate,voiced alveolar lateral affricate
+tDsJ,voiceless palatalized dental sibilant affricate,palatalized voiceless dental sibilant affricate
+ntDsh,prenasalized voiceless aspirated dental sibilant affricate,prenasalized voiceless aspirated dental sibilant affricate
+ntDs,prenasalized voiceless dental sibilant affricate,prenasalized voiceless dental sibilant affricate
+ndDz,prenasalized voiced dental sibilant affricate,prenasalized voiced dental sibilant affricate
+tDsh,voiceless aspirated dental sibilant affricate,voiceless aspirated dental sibilant affricate
+tDs,voiceless dental sibilant affricate,voiceless dental sibilant affricate
+dDz,voiced dental sibilant affricate,voiced dental sibilant affricate
+"""tsWh",labialized voiceless aspirated dental/alveolar sibilant affricate,labialized voiceless aspirated dental/alveolar sibilant affricate
+"""tsW:",long labialized voiceless dental/alveolar sibilant affricate,long labialized voiceless dental/alveolar sibilant affricate
+"""tsJ",palatalized voiceless dental/alveolar sibilant affricate,palatalized voiceless dental/alveolar sibilant affricate
+"""dzJ",palatalized voiced dental/alveolar sibilant affricate,palatalized voiced dental/alveolar sibilant affricate
+"""nts",prenasalized voiceless dental/alveolar sibilant affricate,prenasalized voiceless dental/alveolar sibilant affricate
+"""tsh",voiceless aspirated dental/alveolar sibilant affricate,voiceless aspirated dental/alveolar sibilant affricate
+"""ts*",laryngealized voiceless dental/alveolar sibilant affricate,laryngealized voiceless dental/alveolar sibilant affricate
+"""ts:",long voiceless dental/alveolar sibilant affricate,long voiceless dental/alveolar sibilant affricate
+"""tshh",voiceless dental/alveolar sibilant affricate with breathy release,voiceless dental/alveolar sibilant affricate with breathy release
+"""ts",voiceless dental/alveolar sibilant affricate,voiceless dental/alveolar sibilant affricate
+"""dzh",breathy voiced dental/alveolar sibilant affricate,breathy voiced dental/alveolar sibilant affricate
+"""dz",voiced dental/alveolar sibilant affricate,voiced dental/alveolar sibilant affricate
+ts-,velarized voiceless alveolar sibilant affricate,velarized voiceless alveolar sibilant affricate
+dz-,velarized voiced alveolar sibilant affricate,velarized voiced alveolar sibilant affricate
+ndz,prenasalized voiced alveolar sibilant affricate,prenasalized voiced alveolar sibilant affricate
+tsh,voiceless aspirated alveolar sibilant affricate,voiceless aspirated alveolar sibilant affricate
+ts*,laryngealized voiceless alveolar sibilant affricate,laryngealized voiceless alveolar sibilant affricate
+tshh,voiceless aspirated alveolar sibilant affricate with breathy release,voiceless aspirated alveolar sibilant affricate with breathy release
+ts,voiceless alveolar sibilant affricate,voiceless alveolar sibilant affricate
+dzh,breathy voiced alveolar sibilant affricate,breathy voiced alveolar sibilant affricate
+dz,voiced alveolar sibilant affricate,voiced alveolar sibilant affricate
+tSWh,labialized voiceless aspirated palato-alveolar sibilant affricate,labialized voiceless aspirated palato-alveolar sibilant affricate
+tSW:,long labialized voiceless palato-alveolar sibilant affricate,long labialized voiceless palato-alveolar sibilant affricate
+tSW,labialized voiceless palato-alveolar sibilant affricate,labialized voiceless palato-alveolar sibilant affricate
+dZW,labialized voiced palato-alveolar sibilant affricate,labialized voiced palato-alveolar sibilant affricate
+tSJh,palatalized voiceless aspirated palato-alveolar sibilant affricate,palatalized voiceless aspirated palato-alveolar sibilant affricate
+tSJ,palatalized voiceless palato-alveolar sibilant affricate,palatalized voiceless palato-alveolar sibilant affricate
+dZJ,palatalized voiced palato-alveolar sibilant affricate,palatalized voiced palato-alveolar sibilant affricate
+tS-,velarized voiceless palato-alveolar sibilant affricate,velarized voiceless palato-alveolar sibilant affricate
+dZ-,velarized voiced palato-alveolar sibilant affricate,velarized voiced palato-alveolar sibilant affricate
+ntSh,prenasalized voiceless aspirated palato-alveolar sibilant affricate,prenasalized voiceless aspirated palato-alveolar sibilant affricate
+ntS,prenasalized voiceless palato-alveolar sibilant affricate,prenasalized voiceless palato-alveolar sibilant affricate
+ndZ,prenasalized voiced palato-alveolar sibilant affricate,prenasalized voiced palato-alveolar sibilant affricate
+tSh,voiceless aspirated palato-alveolar sibilant affricate,voiceless aspirated palato-alveolar sibilant affricate
+tS*,laryngealized voiceless palato-alveolar sibilant affricate,laryngealized voiceless palato-alveolar sibilant affricate
+tS:,long voiceless palato-alveolar sibilant affricate,long voiceless palato-alveolar sibilant affricate
+htS,voiceless preaspirated palato-alveolar sibilant affricate,voiceless preaspirated palato-alveolar sibilant affricate
+tS,voiceless palato-alveolar sibilant affricate,voiceless palato-alveolar sibilant affricate
+dZh,breathy voiced palato-alveolar sibilant affricate,breathy voiced palato-alveolar sibilant affricate
+dZ,voiced palato-alveolar sibilant affricate,voiced palato-alveolar sibilant affricate
+nt.sh,prenasalized voiceless aspirated retroflex sibilant affricate,prenasalized voiceless aspirated retroflex sibilant affricate
+nt.s,prenasalized voiceless retroflex sibilant affricate,prenasalized voiceless retroflex sibilant affricate
+nd.z,prenasalized voiced retroflex sibilant affricate,prenasalized voiced retroflex sibilant affricate
+t.sh,voiceless aspirated retroflex sibilant affricate,voiceless aspirated retroflex sibilant affricate
+t.s,voiceless retroflex sibilant affricate,voiceless retroflex sibilant affricate
+d.z,voiced retroflex sibilant affricate,voiced retroflex sibilant affricate
+"ncC,",prenasalized voiceless palatal sibilant affricate,prenasalized voiceless palatal sibilant affricate
+"ndjz,",prenasalized voiced palatal sibilant affricate,prenasalized voiced palatal sibilant affricate
+"cC,h",voiceless aspirated palatal sibilant affricate,voiceless aspirated palatal sibilant affricate
+"cC,",voiceless palatal sibilant affricate,voiceless palatal sibilant affricate
+"djz,",voiced sibilant palatal affricate,voiced palatal sibilant affricate
+pfh,voiceless aspirated labio-dental affricate,voiceless aspirated labiodental affricate
+pf,voiceless labio-dental affricate,voiceless labiodental affricate
+bv,voiced labio-dental affricate,voiced labiodental affricate
+tD0h,voiceless aspirated dental affricate,voiceless aspirated dental affricate
+tD0,voiceless dental affricate,voiceless dental affricate
+dD6,voiced dental affricate,voiced dental affricate
+t0h,voiceless aspirated alveolar affricate,voiceless aspirated alveolar affricate
+t0,voiceless alveolar affricate,voiceless alveolar affricate
+t.0,voiceless retroflex affricate,voiceless retroflex affricate
+cCW,labialized voiceless palatal affricate,labialized voiceless palatal affricate
+djjFW,labialized voiced palatal affricate,labialized voiced palatal affricate
+ndjjF,prenasalized voiced palatal affricate,prenasalized voiced palatal affricate
+cCh,voiceless aspirated palatal affricate,voiceless aspirated palatal affricate
+cC,voiceless palatal affricate,voiceless palatal affricate
+djjF,voiced palatal affricate,voiced palatal affricate
+kxWh,labialized voiceless aspirated velar affricate,labialized voiceless aspirated velar affricate
+kxh,voiceless aspirated velar affricate,voiceless aspirated velar affricate
+kx:,long voiceless velar affricate,long voiceless velar affricate
+kx,voiceless velar affricate,voiceless velar affricate
+qXW9,labialized pharyngealized voiceless uvular affricate,labialized pharyngealized voiceless uvular affricate
+qXW,labialized voiceless uvular affricate,labialized voiceless uvular affricate
+qX9,pharyngealized voiceless uvular affricate,pharyngealized voiceless uvular affricate
+qX:,long voiceless uvular affricate,long voiceless uvular affricate
+qX,voiceless uvular affricate,voiceless uvular affricate
+"""tlFW'",labialized voiceless dental/alveolar lateral ejective affricate,labialized voiceless dental/alveolar lateral ejective affricate
+"""tlF':",long voiceless dental/alveolar lateral ejective affricate,long voiceless dental/alveolar lateral ejective affricate
+"""tlF'",voiceless dental/alveolar lateral ejective affricate,voiceless dental/alveolar lateral ejective affricate
+tlF',voiceless alveolar lateral ejective affricate,voiceless alveolar lateral ejective affricate
+klF',voiceless velar lateral ejective affricate,voiceless velar lateral ejective affricate
+tDs',voiceless dental sibilant ejective affricate,voiceless dental sibilant ejective affricate
+"""tsW'",labialized voiceless dental/alveolar sibilant ejective affricate,labialized voiceless dental/alveolar sibilant ejective affricate
+"""ts':",long voiceless dental/alveolar sibilant ejective affricate,long voiceless dental/alveolar sibilant ejective affricate
+"""ts'",voiceless dental/alveolar sibilant ejective affricate,voiceless dental/alveolar sibilant ejective affricate
+ts',voiceless alveolar sibilant ejective affricate,voiceless alveolar sibilant ejective affricate
+dz',voiced alveolar sibilant ejective affricate,voiced alveolar sibilant ejective affricate
+tSW',labialized voiceless palato-alveolar sibilant ejective affricate,labialized voiceless palato-alveolar sibilant ejective affricate
+tS':,long voiceless palatal-alveolar sibilant ejective affricate,long voiceless palato-alveolar sibilant ejective affricate
+tS',voiceless palato-alveolar sibilant ejective affricate,voiceless palato-alveolar sibilant ejective affricate
+dZ',voiced palato-alveolar sibilant ejective affricate,voiced palato-alveolar sibilant ejective affricate
+t.s',voiceless retroflex sibilant ejective affricate,voiceless retroflex sibilant ejective affricate
+"cC,'",voiceless palatal sibilant ejective affricate,voiceless palatal sibilant ejective affricate
+pf',voiceless labiodental ejective affricate,voiceless labiodental ejective affricate
+tD0',voiceless dental ejective affricate,voiceless dental ejective affricate
+kx':,long voiceless velar ejective affricate,long voiceless velar ejective affricate
+qXW9',labialized pharyngealized voiceless uvular ejective affricate,labialized pharyngealized voiceless uvular ejective affricate
+qXW',labialized voiceless uvular ejective affricate,labialized voiceless uvular ejective affricate
+qX9':,long pharyngealized voiceless uvular ejective affricate,long pharyngealized voiceless uvular ejective affricate
+qX9',pharyngealized voiceless uvular ejective affricate,pharyngealized voiceless uvular ejective affricate
+qX':,long voiceless uvular ejective affricate,long voiceless uvular ejective affricate
+qX',voiceless uvular ejective affricate,voiceless uvular ejective affricate
+#xh,velar-fricated voiceless aspirated alveolar lateral affricated click,velar-fricated voiceless aspirated alveolar lateral affricated click
+hn#h,nasalized voiceless aspirated alveolar lateral affricated click,nasalized voiceless aspirated alveolar lateral affricated click
+hn#?,glottalized nasalized voiceless alveolar lateral affricated click,glottalized nasalized voiceless alveolar lateral affricated click
+n#,nasalized voiced alveolar lateral affricated click,nasalized voiced alveolar lateral affricated click
+#h,voiceless aspirated alveolar lateral affricated click,voiceless aspirated alveolar lateral affricated click
+#?,glottalized voiceless alveolar lateral affricated click,glottalized voiceless alveolar lateral affricated click
+#,voiceless alveolar lateral affricated click,voiceless alveolar lateral affricated click
+g#,voiced alveolar lateral affricated click,voiced alveolar lateral affricated click
+hn#jx?,glottalized nasalized velar-fricated voiceless palatal lateral affricated click,glottalized nasalized velar-fricated voiceless palatal lateral affricated click
+#jx,velar-fricated voiceless palatal lateral affricated click,velar-fricated voiceless palatal lateral affricated click
+g#jx?,glottalized velar-fricated voiced palatal lateral affricated click,glottalized velar-fricated voiced palatal lateral affricated click
+g#jx,velar-fricated voiced palatal lateral affricated click,velar-fricated voiced palatal lateral affricated click
+hn#jh,nasalized voiceless aspirated palatal lateral affricated click,nasalized voiceless aspirated palatal lateral affricated click
+hn#j?,glottalized nasalized voiceless palatal lateral affricated click,glottalized nasalized voiceless palatal lateral affricated click
+n#jh,nasalized breathy voiced palatal lateral affricated click,nasalized breathy voiced palatal lateral affricated click
+n#j,nasalized voiced palatal lateral affricated click,nasalized voiced palatal lateral affricated click
+#jh,voiceless aspirated palatal lateral affricated click,voiceless aspirated palatal lateral affricated click
+#j,voiceless palatal lateral affricated click,voiceless palatal lateral affricated click
+g#jh,breathy voiced palatal lateral affricated click,breathy voiced palatal lateral affricated click
+g#j,voiced palatal lateral affricated click,voiced palatal lateral affricated click
+hn|x?,glottalized nasalized velar-fricated voiceless dental affricated click,glottalized nasalized velar-fricated voiceless dental affricated click
+|xh,velarized voiceless aspirated dental affricated click,velarized voiceless aspirated dental affricated click
+|x,velar-fricated voiceless dental affricated click,velar-fricated voiceless dental affricated click
+g|x?,glottalized velar-fricated voiced dental affricated click,glottalized velar-fricated voiced dental affricated click
+g|x,velar-fricated voiced dental affricated click,velar-fricated voiced dental affricated click
+hn|h,nasalized voiceless aspirated dental affricated click,nasalized voiceless aspirated dental affricated click
+hn|?,glottalized nasalized voiceless dental affricated click,glottalized nasalized voiceless dental affricated click
+n|h,nasalized breathy voiced dental affricated click,nasalized breathy voiced dental affricated click
+n|,nasalized voiced dental affricated click,nasalized voiced dental affricated click
+|h,voiceless aspirated dental affricated click,voiceless aspirated dental affricated click
+|?,glottalized voiceless affricated dental click,glottalized voiceless dental affricated click
+|,voiceless dental affricated click,voiceless dental affricated click
+g|h,breathy voiced dental affricated click,breathy voiced dental affricated click
+g|,voiced dental affricated click,voiced dental affricated click
+/s,voiceless alveolar affricated click,voiceless alveolar affricated click
+rrD,voiced dental r-sound,voiced dental r-sound
+"""hrr",voiceless dental/alveolar r-sound,voiceless dental/alveolar r-sound
+"""rr*",laryngealized voiced dental/alveolar r-sound,laryngealized voiced dental/alveolar r-sound
+"""rr",voiced dental/alveolar r-sound,voiced dental/alveolar r-sound
+rrJ,palatalized voiced alveolar r-sound,palatalized voiced alveolar r-sound
+rr,voiced alveolar r-sound,voiced alveolar r-sound
+rDT*,laryngealized voiced dental tap,laryngealized voiced dental tap
+rDT,voiced dental tap,voiced dental tap
+rT,voiced alveolar tap,voiced alveolar tap
+"""l[",voiced dental/alveolar lateral flap,voiced dental/alveolar lateral flap
+l[J,palatalized voiced alveolar lateral flap,palatalized voiced alveolar lateral flap
+l[,voiced alveolar lateral flap,voiced alveolar lateral flap
+l.[*,laryngealized voiced retroflex lateral flap,laryngealized voiced retroflex lateral flap
+l.[,voiced retroflex lateral flap,voiced retroflex lateral flap
+v[,voiced labio-dental flap,voiced labiodental flap
+rD[,voiced dental flap,voiced dental flap
+"""r[J",palatalized voiced dental/alveolar flap,palatalized voiced dental/alveolar flap
+"""r[",voiced dental/alveolar flap,voiced dental/alveolar flap
+hr[J,palatalized voiceless alveolar flap,palatalized voiceless alveolar flap
+r[J,palatalized voiced alveolar flap,palatalized voiced alveolar flap
+hr[-,velarized voiceless alveolar flap,velarized voiceless alveolar flap
+r[-,velarized voiced alveolar flap,velarized voiced alveolar flap
+r[*,glottalized voiced alveolar flap,glottalized voiced alveolar flap
+r[,voiced alveolar flap,voiced alveolar flap
+r_[,voiced palato-alveolar flap,voiced palato-alveolar flap
+r.[~,nasalized voiced retroflex flap,nasalized voiced retroflex flap
+r.[,voiced retroflex flap,voiced retroflex flap
+rDJ,palatalized voiced dental trill,palatalized voiced dental trill
+rD,voiced dental trill,voiced dental trill
+"""rJ",palatalized voiced dental/alveolar trill,palatalized voiced dental/alveolar trill
+"""r-",velarized voiced dental/alveolar trill,velarized voiced dental/alveolar trill
+"""r9",pharyngealized voiced dental/alveolar trill,pharyngealized voiced dental/alveolar trill
+"""hr",voiceless dental/alveolar trill,voiceless dental/alveolar trill
+"""r*",laryngealized voiced dental/alveolar trill,laryngealized voiced dental/alveolar trill
+"""r",voiced dental/alveolar trill,voiced dental/alveolar trill
+rJ,palatalized voiced alveolar trill,palatalized voiced alveolar trill
+nr,prenasalized voiced alveolar trill,prenasalized voiced alveolar trill
+hr,voiceless alveolar trill,voiceless alveolar trill
+r,voiced alveolar trill,voiced alveolar trill
+r.,voiced retroflex trill,voiced retroflex trill
+rj,voiced palatal trill,voiced palatal trill
+R,voiced uvular trill,voiced uvular trill
+lDJ,palatalized voiced dental lateral approximant,palatalized voiced dental lateral approximant
+lD-,velarized voiced dental lateral approximant,velarized voiced dental lateral approximant
+dlD,voiced prestopped dental lateral approximant,voiced prestopped dental lateral approximant
+hlD,voiceless dental lateral approximant,voiceless dental lateral approximant
+lD:,long voiced dental lateral approximant,long voiced dental lateral approximant
+lD,voiced dental lateral approximant,voiced dental lateral approximant
+"""lJ",palatalized voiced dental/alveolar lateral approximant,palatalized voiced dental/alveolar lateral approximant
+"""l-",velarized voiced dental/alveolar lateral approximant,velarized voiced dental/alveolar lateral approximant
+"""l9",pharyngealized voiced dental/alveolar lateral approximant,pharyngealized voiced dental/alveolar lateral approximant
+"""hl",voiceless dental/alveolar lateral approximant,voiceless dental/alveolar lateral approximant
+"""l*",laryngealized voiced dental/alveolar lateral approximant,laryngealized voiced dental/alveolar lateral approximant
+"""lh",breathy voiced dental/alveolar lateral approximant,breathy voiced dental/alveolar lateral approximant
+"""l",voiced dental/alveolar lateral approximant,voiced dental/alveolar lateral approximant
+hlJ,palatalized voiceless alveolar lateral approximant,palatalized voiceless alveolar lateral approximant
+lJ,palatalized voiced alveolar lateral approximant,palatalized voiced alveolar lateral approximant
+hl-,velarized voiceless alveolar lateral approximant,velarized voiceless alveolar lateral approximant
+l-,velarized voiced alveolar lateral approximant,velarized voiced alveolar lateral approximant
+l9,pharyngealized voiced alveolar lateral approximant,pharyngealized voiced alveolar lateral approximant
+l~,nasalized voiced alveolar lateral approximant,nasalized voiced alveolar lateral approximant
+hl,voiceless alveolar lateral approximant,voiceless alveolar lateral approximant
+l*,laryngealized voiced alveolar lateral approximant,laryngealized voiced alveolar lateral approximant
+l,voiced alveolar lateral approximant,voiced alveolar lateral approximant
+l_h,breathy voiced palato-alveolar lateral approximant,breathy voiced palato-alveolar lateral approximant
+l_,voiced palato-alveolar lateral approximant,voiced palato-alveolar lateral approximant
+hl.,voiceless retroflex lateral approximant,voiceless retroflex lateral approximant
+l.,voiced retroflex lateral approximant,voiced retroflex lateral approximant
+lj,voiced palatal lateral approximant,voiced palatal lateral approximant
+L,voiced velar lateral approximant,voiced velar lateral approximant
+wj,voiced labial-palatal approximant,voiced labial-palatal approximant
+w~,nasalized voiced labial-velar approximant,nasalized voiced labial-velar approximant
+hw,voiceless labial-velar approximant,voiceless labial-velar approximant
+w*,laryngealized voiced labial-velar approximant,laryngealized voiced labial-velar approximant
+w,voiced labial-velar approximant,voiced labial-velar approximant
+BAJ,palatalized voiced bilabial approximant,palatalized voiced bilabial approximant
+BA-,velarized voiced bilabial approximant,velarized voiced bilabial approximant
+PA,voiceless bilabial approximant,voiceless bilabial approximant
+BA:,long voiced bilabial approximant,long voiced bilabial approximant
+BA,voiced bilabial approximant,voiced bilabial approximant
+vA,voiced labio-dental approximant,voiced labiodental approximant
+"""hrA",voiceless dental/alveolar approximant,voiceless dental/alveolar approximant
+"""rA",voiced dental/alveolar approximant,voiced dental/alveolar approximant
+rA,voiced alveolar approximant,voiced alveolar approximant
+j_,voiced palatal-alveolar approximant,voiced palato-alveolar approximant
+r.A,voiced retroflex approximant,voiced retroflex approximant
+j~,nasalized voiced palatal approximant,nasalized voiced palatal approximant
+hj,voiceless palatal approximant,voiceless palatal approximant
+j*,laryngealized voiced palatal approximant,laryngealized voiced palatal approximant
+j,voiced palatal approximant,voiced palatal approximant
+gA*,laryngealized voiced velar approximant,laryngealized voiced velar approximant
+gA,voiced velar approximant,voiced velar approximant
+RAW*,laryngealized labialized voiced uvular approximant,laryngealized labialized voiced uvular approximant
+RAW,labialized voiced uvular approximant,labialized voiced uvular approximant
+RA,voiced uvular approximant,voiced uvular approximant
+hNm,voiceless labial-velar nasal,voiceless labial-velar nasal
+Nm,voiced labial-velar nasal,voiced labial-velar nasal
+mW-,labialized velarized voiced bilabial nasal,labialized velarized voiced bilabial nasal
+mW,labialized voiced bilabial nasal,labialized voiced bilabial nasal
+mJ,palatalized voiced bilabial nasal,palatalized voiced bilabial nasal
+hm,voiceless bilabial nasal,voiceless bilabial nasal
+m*,laryngealized voiced bilabial nasal,laryngealized voiced bilabial nasal
+m:,long voiced bilabial nasal,long voiced bilabial nasal
+mh,breathy voiced bilabial nasal,breathy voiced bilabial nasal
+m,voiced bilabial nasal,voiced bilabial nasal
+mD,voiced labio-dental nasal,voiced labiodental nasal
+nDJ,palatalized voiced dental nasal,palatalized voiced dental nasal
+hnD,voiceless dental nasal,voiceless dental nasal
+nD*,laryngealized voiced dental nasal,laryngealized voiced dental nasal
+nDh,breathy voiced dental nasal,breathy voiced dental nasal
+nD,voiced dental nasal,voiced dental nasal
+"""nW",labialized voiced dental/alveolar nasal,labialized voiced dental/alveolar nasal
+"""nJ",palatalized voiced dental/alveolar nasal,palatalized voiced dental/alveolar nasal
+"""hn",voiceless dental/alveolar nasal,voiceless dental/alveolar nasal
+"""n*",laryngealized voiced dental/alveolar nasal,laryngealized voiced dental/alveolar nasal
+"""n:",long voiced dental/alveolar nasal,long voiced dental/alveolar nasal
+"""nh",breathy voiced dental/alveolar nasal,breathy voiced dental/alveolar nasal
+"""n",voiced dental/alveolar nasal,voiced dental/alveolar nasal
+hnJ,palatalized voiceless alveolar nasal,palatalized voiceless alveolar nasal
+nJ,palatalized voiced alveolar nasal,palatalized voiced alveolar nasal
+hn-,velarized voiceless alveolar nasal,velarized voiceless alveolar nasal
+n-,velarized voiced alveolar nasal,velarized voiced alveolar nasal
+hn,voiceless alveolar nasal,voiceless alveolar nasal
+n*,laryngealized voiced alveolar nasal,laryngealized voiced alveolar nasal
+n:,long voiced alveolar nasal,long voiced alveolar nasal
+n,voiced alveolar nasal,voiced alveolar nasal
+hn_,voiceless palatal-alveolar nasal,voiceless palato-alveolar nasal
+n_h,breathy voiced palato-alveolar nasal,breathy voiced palato-alveolar nasal
+n_,voiced palato-alveolar nasal,voiced palato-alveolar nasal
+hn.,voiceless retroflex nasal,voiceless retroflex nasal
+n.,voiced retroflex nasal,voiced retroflex nasal
+njW,labialized voiced palatal nasal,labialized voiced palatal nasal
+hnj,voiceless palatal nasal,voiceless palatal nasal
+nj*,laryngealized voiced palatal nasal,laryngealized voiced palatal nasal
+nj:,long voiced palatal nasal,long voiced palatal nasal
+nj,voiced palatal nasal,voiced palatal nasal
+hNW,labialized voiceless velar nasal,labialized voiceless velar nasal
+NW,labialized voiced velar nasal,labialized voiced velar nasal
+hNJ,palatalized voiceless velar nasal,palatalized voiceless velar nasal
+NJ,palatalized voiced velar nasal,palatalized voiced velar nasal
+N9,pharyngealized voiced velar nasal,pharyngealized voiced velar nasal
+hN,voiceless velar nasal,voiceless velar nasal
+N*,laryngealized voiced velar nasal,laryngealized voiced velar nasal
+Nh,breathy voiced velar nasal,breathy voiced velar nasal
+N,voiced velar nasal,voiced velar nasal
+nU,voiced uvular nasal,voiced uvular nasal
+i~-,nasalized high front unrounded vowel with velar stricture,nasalized high front unrounded vowel with velar stricture
+i-,high front unrounded vowel with velar stricture,high front unrounded vowel with velar stricture
+"""o9~",nasalized pharyngealized mid back rounded vowel,nasalized pharyngealized mid back rounded vowel
+O9~:,long nasalized pharyngealized lower mid back rounded vowel,long nasalized pharyngealized lower mid back rounded vowel
+a9~:,long nasalized pharyngealized low central unrounded vowel,long nasalized pharyngealized low central unrounded vowel
+a9~,nasalized pharyngealized low central unrounded vowel,nasalized pharyngealized low central unrounded vowel
+I9,pharyngealized lowered high front unrounded vowel,pharyngealized lowered high front unrounded vowel
+i9:,long pharyngealized high front unrounded vowel,long pharyngealized high front unrounded vowel
+i9,pharyngealized high front unrounded vowel,pharyngealized high front unrounded vowel
+U9,pharyngealized lowered high back rounded vowel,pharyngealized lowered high back rounded vowel
+u9:,long pharyngealized high back rounded vowel,long pharyngealized high back rounded vowel
+u9,pharyngealized high back rounded vowel,pharyngealized high back rounded vowel
+"""o/9",pharyngealized mid front rounded vowel,pharyngealized mid front rounded vowel
+"""e9",pharyngealized mid front unrounded vowel,pharyngealized mid front unrounded vowel
+"""o9:",long pharyngealized mid back rounded vowel,long pharyngealized mid back rounded vowel
+"""o9",pharyngealized mid back rounded vowel,pharyngealized mid back rounded vowel
+O9,pharyngealized lower mid back rounded vowel,pharyngealized lower mid back rounded vowel
+aa9,pharyngealized raised low front unrounded vowel,pharyngealized raised low front unrounded vowel
+49,pharyngealized raised low central unrounded vowel,pharyngealized raised low central unrounded vowel
+a9:,long pharyngealized low central unrounded vowel,long pharyngealized low central unrounded vowel
+a9,pharyngealized low central unrounded vowel,pharyngealized low central unrounded vowel
+I~,nasalized lowered high front unrounded vowel,nasalized lowered high front unrounded vowel
+y~,nasalized high front rounded vowel,nasalized high front rounded vowel
+i~*,laryngealized nasalized high front unrounded vowel,laryngealized nasalized high front unrounded vowel
+i~:,long nasalized high front unrounded vowel,long nasalized high front unrounded vowel
+i~,nasalized high front unrounded vowel,nasalized high front unrounded vowel
+I_~,nasalized lowered high central unrounded vowel,nasalized lowered high central unrounded vowel
+i_~:,long nasalized high central unrounded vowel,long nasalized high central unrounded vowel
+i_~,nasalized high central unrounded vowel,nasalized high central unrounded vowel
+U~,nasalized lowered high back rounded vowel,nasalized lowered high back rounded vowel
+u~:,long nasalized high back rounded vowel,long nasalized high back rounded vowel
+u~,nasalized high back rounded vowel,nasalized high back rounded vowel
+uu~,nasalized high back unrounded vowel,nasalized high back unrounded vowel
+e~:,long nasalized higher mid front unrounded vowel,long nasalized higher mid front unrounded vowel
+e~,nasalized higher mid front unrounded vowel,nasalized higher mid front unrounded vowel
+@)~,nasalized higher mid central rounded vowel,nasalized higher mid central rounded vowel
+@~:,long nasalized higher mid central unrounded vowel,long nasalized higher mid central unrounded vowel
+@~,nasalized higher mid central unrounded vowel,nasalized higher mid central unrounded vowel
+o~:,long nasalized higher mid back rounded vowel,long nasalized overshort higher mid back rounded vowel
+o~,nasalized higher mid back rounded vowel,nasalized overshort higher mid back rounded vowel
+"""e~*",laryngealized nasalized mid front unrounded vowel,laryngealized nasalized mid front unrounded vowel
+"""e~",nasalized mid front unrounded vowel,nasalized mid front unrounded vowel
+"""@~",nasalized mid central unrounded vowel,nasalized mid central unrounded vowel
+"""o(+~",nasalized fronted mid back unrounded vowel,nasalized mid fronted back unrounded vowel
+"""o~*",laryngealized nasalized mid back rounded vowel,laryngealized nasalized mid back rounded vowel
+"""o~",nasalized mid back rounded vowel,nasalized mid back rounded vowel
+"""o(~",nasalized mid back unrounded vowel,nasalized mid back unrounded vowel
+E)~,nasalized lower mid front rounded vowel,nasalized lower mid front rounded vowel
+E~:,long nasalized lower mid front unrounded vowel,long nasalized lower mid front unrounded vowel
+E~,nasalized lower mid front unrounded vowel,nasalized lower mid front unrounded vowel
+3~,nasalized lower mid central unrounded vowel,nasalized lower mid central unrounded vowel
+O~:,long nasalized lower mid back rounded vowel,long nasalized lower mid back rounded vowel
+O~,nasalized lower mid back rounded vowel,nasalized lower mid back rounded vowel
+^~,nasalized lower mid back unrounded vowel,nasalized lower mid back unrounded vowel
+aa~,nasalized raised low front unrounded vowel,nasalized raised low front unrounded vowel
+a+~,nasalized low front unrounded vowel,nasalized low front unrounded vowel
+a~*,laryngealized nasalized low central unrounded vowel,laryngealized nasalized low central unrounded vowel
+a~:,long nasalized low central unrounded vowel,long nasalized low central unrounded vowel
+a~,nasalized low central unrounded vowel,nasalized low central unrounded vowel
+a_)~,nasalized low back rounded vowel,nasalized low back rounded vowel
+a_~:,long nasalized low back unrounded vowel,long nasalized low back unrounded vowel
+a_~,nasalized low back unrounded vowel,nasalized low back unrounded vowel
+Y,lowered high front rounded vowel,lowered high front rounded vowel
+IS,overshort lowered high front unrounded vowel,overshort lowered high front unrounded vowel
+I,lowered high front unrounded vowel,lowered high front unrounded vowel
+y:,long high front rounded vowel,long high front rounded vowel
+y,high front rounded vowel,high front rounded vowel
+hi,voiceless high front unrounded vowel,voiceless high front unrounded vowel
+i*,laryngealized high front unrounded vowel,laryngealized high front unrounded vowel
+i:,long high front unrounded vowel,long high front unrounded vowel
+ih,breathy voiced high front unrounded vowel,breathy voiced high front unrounded vowel
+iS,overshort high front unrounded vowel,overshort high front unrounded vowel
+i,high front unrounded vowel,high front unrounded vowel
+U+,lowered high central rounded vowel,lowered high central rounded vowel
+I_,lowered high central unrounded vowel,lowered high central unrounded vowel
+u+:,long high central rounded vowel,long high central rounded vowel
+u+S,overshort high central rounded vowel,overshort high central rounded vowel
+u+,high central rounded vowel,high central rounded vowel
+i_.,retroflexed high central unrounded vowel,retroflexed high central unrounded vowel
+i_:,long high central unrounded vowel,long high central unrounded vowel
+i_S,overshort high central unrounded vowel,overshort high central unrounded vowel
+i_,high central unrounded vowel,high central unrounded vowel
+U:,long lowered high back rounded vowel,long lowered high back rounded vowel
+US,overshort lowered high back rounded vowel,overshort lowered high back rounded vowel
+U,lowered high back rounded vowel,lowered high back rounded vowel
+UUS,overshort lowered high back unrounded vowel,overshort lowered high back unrounded vowel
+UU,lowered high back unrounded vowel,lowered high back unrounded vowel
+hu,voiceless high back rounded vowel,voiceless high back rounded vowel
+u*,laryngealized high back rounded vowel,laryngealized high back rounded vowel
+u:,long high back rounded vowel,long high back rounded vowel
+uh,breathy voiced high back rounded vowel,breathy voiced high back rounded vowel
+uS,overshort high back rounded vowel,overshort high back rounded vowel
+u,high back rounded vowel,high back rounded vowel
+uu:,long high back unrounded vowel,long high back unrounded vowel
+uuh,breathy voiced high back unrounded vowel,breathy voiced high back unrounded vowel
+uu,high back unrounded vowel,high back unrounded vowel
+o/_,higher mid retracted front rounded vowel,higher mid retracted front rounded vowel
+e_,higher mid retracted front unrounded vowel,higher mid retracted front unrounded vowel
+o/:,long higher mid front rounded vowel,long higher mid front rounded vowel
+o/S,overshort higher mid front rounded vowel,overshort higher mid front rounded vowel
+o/,higher mid front rounded vowel,higher mid front rounded vowel
+e*,laryngealized higher mid front unrounded vowel,laryngealized higher mid front unrounded vowel
+e:,long higher mid front unrounded vowel,long higher mid front unrounded vowel
+eh,breathy voiced higher mid front unrounded vowel,breathy voiced higher mid front unrounded vowel
+e,higher mid front unrounded vowel,higher mid front unrounded vowel
+@),higher mid central rounded vowel,higher mid central rounded vowel
+@:,long higher mid central unrounded vowel,long higher mid central unrounded vowel
+@,higher mid central unrounded vowel,higher mid central unrounded vowel
+o+,fronted higher mid back rounded vowel,higher mid fronted back rounded vowel
+o(+,fronted higher mid back unrounded vowel,higher mid fronted back unrounded vowel
+o*,laryngealized higher mid back rounded vowel,laryngealized overshort higher mid back rounded vowel
+o:,long higher mid back rounded vowel,long overshort higher mid back rounded vowel
+oh,breathy voiced higher mid back rounded vowel,breathy voiced overshort higher mid back rounded vowel
+oS,higher mid back rounded vowel,overshort higher mid back rounded vowel
+o,higher mid back rounded vowel,overshort higher mid back rounded vowel
+o(h,breathy voiced higher mid back unrounded vowel,breathy voiced higher mid back unrounded vowel
+o(,higher mid back unrounded vowel,higher mid back unrounded vowel
+"""e_",retracted mid front unrounded vowel,mid retracted front unrounded vowel
+"""o/:",long mid front rounded vowel,long mid front rounded vowel
+"""o/",mid front rounded vowel,mid front rounded vowel
+"""he",voiceless mid front unrounded vowel,voiceless mid front unrounded vowel
+"""e*",laryngealized mid front unrounded vowel,laryngealized mid front unrounded vowel
+"""e:",long mid front unrounded vowel,long mid front unrounded vowel
+"""eS",overshort mid front unrounded vowel,overshort mid front unrounded vowel
+"""e",mid front unrounded vowel,mid front unrounded vowel
+"""@)S",overshort mid central rounded vowel,overshort mid central rounded vowel
+"""@)",mid central rounded vowel,mid central rounded vowel
+"""@.",retroflexed mid central unrounded vowel,retroflexed mid central unrounded vowel
+"""@:",long mid central unrounded vowel,long mid central unrounded vowel
+"""@S",overshort mid central unrounded vowel,overshort mid central unrounded vowel
+"""@",mid central unrounded vowel,mid central unrounded vowel
+"""o+",fronted mid back rounded vowel,mid fronted back rounded vowel
+"""ho",voiceless mid back rounded vowel,voiceless mid back rounded vowel
+"""o*",laryngealized mid back rounded vowel,laryngealized mid back rounded vowel
+"""o:",long mid back rounded vowel,long mid back rounded vowel
+"""oS",overshort mid back rounded vowel,overshort mid back rounded vowel
+"""o",mid back rounded vowel,mid back rounded vowel
+"""o(:",long mid back unrounded vowel,long mid back unrounded vowel
+"""o(",mid back unrounded vowel,mid back unrounded vowel
+E),lower mid front rounded vowel,lower mid front rounded vowel
+E*,laryngealized lower mid front unrounded vowel,laryngealized lower mid front unrounded vowel
+E:,long lower mid front unrounded vowel,long lower mid front unrounded vowel
+Eh,breathy voiced lower-mid front unrounded vowel,breathy voiced lower mid front unrounded vowel
+ES,overshort lower mid front unrounded vowel,overshort lower mid front unrounded vowel
+E,lower mid front unrounded vowel,lower mid front unrounded vowel
+3),lower mid central rounded vowel,lower mid central rounded vowel
+3:,long lower mid central unrounded vowel,long lower mid central unrounded vowel
+3,lower mid central unrounded vowel,lower mid central unrounded vowel
+O*,laryngealized lower mid back rounded vowel,laryngealized lower mid back rounded vowel
+O:,long lower mid back rounded vowel,long lower mid back rounded vowel
+Oh,breathy voiced lower-mid back rounded vowel,breathy voiced lower mid back rounded vowel
+OS,overshort lower mid back rounded vowel,overshort lower mid back rounded vowel
+O,lower mid back rounded vowel,lower mid back rounded vowel
+^h,breathy voiced lower mid back unrounded vowel,breathy voiced lower mid back unrounded vowel
+^,lower mid back unrounded vowel,lower mid back unrounded vowel
+aa:,long raised low front unrounded vowel,long raised low front unrounded vowel
+aa,raised low front unrounded vowel,raised low front unrounded vowel
+a+:,long low front unrounded vowel,long low front unrounded vowel
+a+,low front unrounded vowel,low front unrounded vowel
+4)S,overshort raised low central rounded vowel,overshort raised low central rounded vowel
+4S,overshort raised low central unrounded vowel,overshort raised low central unrounded vowel
+4,raised low central unrounded vowel,raised low central unrounded vowel
+a.,retroflexed low central unrounded vowel,retroflexed low central unrounded vowel
+ha,voiceless low central unrounded vowel,voiceless low central unrounded vowel
+a*,laryngealized low central unrounded vowel,laryngealized low central unrounded vowel
+a:,long low central unrounded vowel,long low central unrounded vowel
+ah,breathy voiced low central unrounded vowel,breathy voiced low central unrounded vowel
+aS,overshort low central unrounded vowel,overshort low central unrounded vowel
+a,low central unrounded vowel,low central unrounded vowel
+4)_,raised low back rounded vowel,raised low back rounded vowel
+4_,raised low back unrounded vowel,raised low back unrounded vowel
+a_):,long low back rounded vowel,long low back rounded vowel
+a_)h,breathy voiced low back rounded vowel,breathy voiced low back rounded vowel
+a_)S,overshort low back rounded vowel,overshort low back rounded vowel
+a_),low back rounded vowel,low back rounded vowel
+a_:,long low back unrounded vowel,long low back unrounded vowel
+a_,low back unrounded vowel,low back unrounded vowel
+oi9~,nasalized pharyngealized mid back rounded to high front unrounded diphthong,nasalized pharyngealized mid back rounded to high front unrounded diphthong
+ae9~,nasalized pharyngealized low central unrounded to mid front unrounded diphthong,nasalized pharyngealized low central unrounded to mid front unrounded diphthong
+ao9~,nasalized pharyngealized low central unrounded to mid back rounded diphthong,nasalized pharyngealized low central unrounded to mid back rounded diphthong
+oa9~,nasalized pharyngealized mid back rounded to low central unrounded diphthong,nasalized pharyngealized mid back rounded to low central unrounded diphthong
+oi9,pharyngealized mid back rounded to high front unrounded diphthong,pharyngealized mid back rounded to high front unrounded diphthong
+ae9,pharyngealized low central unrounded to mid front unrounded diphthong,pharyngealized low central unrounded to mid front unrounded diphthong
+ao9,pharyngealized low central unrounded to mid back rounded diphthong,pharyngealized low central unrounded to mid back rounded diphthong
+oa9,pharyngealized mid back rounded to low central unrounded diphthong,pharyngealized mid back rounded to low central unrounded diphthong
+eu~,nasalized mid front unrounded to high back rounded diphthong,nasalized mid front unrounded to high back rounded diphthong
+oi~,nasalized mid back rounded to high front unrounded diphthong,nasalized mid back rounded to high front unrounded diphthong
+ie~,nasalized high front unrounded to mid front unrounded diphthong,nasalized high front unrounded to mid front unrounded diphthong
+ei~,nasalized mid front unrounded to high front unrounded diphthong,nasalized mid front unrounded to high front unrounded diphthong
+ou~,nasalized mid back rounded to high back rounded diphthong,nasalized mid back rounded to high back rounded diphthong
+Oi~,nasalized lower mid back rounded to high front unrounded diphthong,nasalized lower mid back rounded to high front unrounded diphthong
+ai~,nasalized low central unrounded to high front unrounded diphthong,nasalized low central unrounded to high front unrounded diphthong
+a+i~,nasalized low front unrounded to high front unrounded diphthong,nasalized low front unrounded to high front unrounded diphthong
+i_i~,nasalized high central unrounded to high front unrounded diphthong,nasalized high central unrounded to high front unrounded diphthong
+ui~,nasalized high back rounded to high front unrounded diphthong,nasalized high back rounded to high front unrounded diphthong
+oa~,nasalized mid back rounded to low central unrounded diphthong,nasalized mid back rounded to low central unrounded diphthong
+a_O~,nasalized low back unrounded to lower mid back rounded diphthong,nasalized low back unrounded to lower mid back rounded diphthong
+EO~,nasalized lower mid front unrounded to lower mid back rounded diphthong,nasalized lower mid front unrounded to lower mid back rounded diphthong
+oih,breathy voiced higher mid back rounded to high front unrounded diphthong,breathy voiced higher mid back rounded to high front unrounded diphthong
+o(ih,breathy voiced higher mid back unrounded to high front unrounded diphthong,breathy voiced higher mid back unrounded to high front unrounded diphthong
+o(i,higher mid back unrounded to high front unrounded diphthong,higher mid back unrounded to high front unrounded diphthong
+o/y,higher mid front rounded to high front rounded diphthong,higher mid front rounded to high front rounded diphthong
+i@h,breathy voiced high front unrounded to mid central unrounded diphthong,breathy voiced high front unrounded to mid central unrounded diphthong
+i@,high front unrounded to mid central unrounded diphthong,high front unrounded to mid central unrounded diphthong
+@i,mid central unrounded to high front unrounded diphthong,mid central unrounded to high front unrounded diphthong
+io,high front unrounded to mid back rounded diphthong,high front unrounded to mid back rounded diphthong
+eu,mid front unrounded to high back rounded diphthong,mid front unrounded to high back rounded diphthong
+oi,mid back rounded to high front unrounded diphthong,mid back rounded to high front unrounded diphthong
+Ie,lowered high front unrounded to mid front unrounded diphthong,lowered high front unrounded to mid front unrounded diphthong
+yo/,high front rounded to mid front rounded diphthong,high front rounded to mid front rounded diphthong
+ie,high front unrounded to mid front unrounded diphthong,high front unrounded to mid front unrounded diphthong
+ei,mid front unrounded to high front unrounded diphthong,mid front unrounded to high front unrounded diphthong
+@u,mid central unrounded to high back rounded diphthong,mid central unrounded to high back rounded diphthong
+u@h,breathy voiced high back rounded to mid central unrounded diphthong,breathy voiced high back rounded to mid central unrounded diphthong
+u@,high back rounded to mid central unrounded diphthong,high back rounded to mid central unrounded diphthong
+@uu,mid central unrounded to high back unrounded diphthong,mid central unrounded to high back unrounded diphthong
+uu@h,breathy voiced high back unrounded to mid central unrounded diphthong,breathy voiced high back unrounded to mid central unrounded diphthong
+uu@,high back unrounded to mid central unrounded diphthong,high back unrounded to mid central unrounded diphthong
+i_@,high central unrounded to mid central unrounded diphthong,high central unrounded to mid central unrounded diphthong
+uo,high back rounded to mid back rounded diphthong,high back rounded to mid back rounded diphthong
+ou,mid back rounded to high back rounded diphthong,mid back rounded to high back rounded diphthong
+3i,lower mid central unrounded to high front unrounded diphthong,lower mid central unrounded to high front unrounded diphthong
+Oih,breathy voiced lower mid back rounded to high front unrounded diphthong,breathy voiced lower mid back rounded to high front unrounded diphthong
+Oi,lower mid back rounded to high front unrounded diphthong,lower mid back rounded to high front unrounded diphthong
+Oy,lower mid back rounded to high front rounded diphthong,lower mid back rounded to high front rounded diphthong
+i^,high front unrounded to lower mid back unrounded diphthong,high front unrounded to lower mid back unrounded diphthong
+Euu,lower mid front unrounded to high back unrounded diphthong,lower mid front unrounded to high back unrounded diphthong
+iEh,breathy voiced high front unrounded to lower mid front unrounded diphthong,breathy voiced high front unrounded to lower mid front unrounded diphthong
+iE,high front unrounded to lower mid front unrounded diphthong,high front unrounded to lower mid front unrounded diphthong
+Ei,lower mid front unrounded to high front unrounded diphthong,lower mid front unrounded to high front unrounded diphthong
+u^,high back rounded to lower mid back unrounded diphthong,high back rounded to lower mid back unrounded diphthong
+uu^,high back unrounded to lower mid back unrounded diphthong,high back unrounded to lower mid back unrounded diphthong
+aau+,raised low front unrounded to high central rounded diphthong,raised low front unrounded to high central rounded diphthong
+iah,breathy voiced high front unrounded to low central unrounded diphthong,breathy voiced high front unrounded to low central unrounded diphthong
+ia,high front unrounded to low central unrounded diphthong,high front unrounded to low central unrounded diphthong
+aih,breathy voiced low central unrounded to high front unrounded diphthong,breathy voiced low central unrounded to high front unrounded diphthong
+ai,low central unrounded to high front unrounded diphthong,low central unrounded to high front unrounded diphthong
+aai,raised low front unrounded to high front unrounded diphthong,raised low front unrounded to high front unrounded diphthong
+ia+,high front unrounded to low front unrounded diphthong,high front unrounded to low front unrounded diphthong
+a+i,low front unrounded to high front unrounded diphthong,low front unrounded to high front unrounded diphthong
+auh,breathy voiced low central unrounded to high back rounded diphthong,breathy voiced low central unrounded to high back rounded diphthong
+au,low central unrounded to high back rounded diphthong,low central unrounded to high back rounded diphthong
+uah,breathy voiced high back rounded to low central unrounded diphthong,breathy voiced high back rounded to low central unrounded diphthong
+ua,high back rounded to low central unrounded diphthong,high back rounded to low central unrounded diphthong
+auuh,breathy voiced low central unrounded to high back unrounded diphthong,breathy voiced low central unrounded to high back unrounded diphthong
+auu,low central unrounded to high back unrounded diphthong,low central unrounded to high back unrounded diphthong
+uua,high back unrounded to low central unrounded diphthong,high back unrounded to low central unrounded diphthong
+i_a,high central unrounded to low central unrounded diphthong,high central unrounded to low central unrounded diphthong
+ai_,low central unrounded to high central unrounded diphthong,low central unrounded to high central unrounded diphthong
+i_i,high central unrounded to high front unrounded diphthong,high central unrounded to high front unrounded diphthong
+Ui,lowered high back rounded to high front unrounded diphthong,lowered high back rounded to high front unrounded diphthong
+iuh,breathy voiced high front unrounded to high back rounded diphthong,breathy voiced high front unrounded to high back rounded diphthong
+iu,high front unrounded to high back rounded diphthong,high front unrounded to high back rounded diphthong
+uih,breathy voiced high back rounded to high front unrounded diphthong,breathy voiced high back rounded to high front unrounded diphthong
+ui,high back rounded to high front unrounded diphthong,high back rounded to high front unrounded diphthong
+uuih,breathy voiced high back unrounded to high front unrounded diphthong,breathy voiced high back unrounded to high front unrounded diphthong
+uui,high back unrounded to high front unrounded diphthong,high back unrounded to high front unrounded diphthong
+Eo,lower mid front unrounded to mid back rounded diphthong,lower mid front unrounded to mid back rounded diphthong
+ea,mid front unrounded to low central unrounded diphthong,mid front unrounded to low central unrounded diphthong
+ae,low central unrounded to mid front unrounded diphthong,low central unrounded to mid front unrounded diphthong
+ao,low central unrounded to mid back rounded diphthong,low central unrounded to mid back rounded diphthong
+oa,mid back rounded to low central unrounded diphthong,mid back rounded to low central unrounded diphthong
+e@,mid front unrounded to mid central unrounded diphthong,mid front unrounded to mid central unrounded diphthong
+eo,mid front unrounded to mid back rounded diphthong,mid front unrounded to mid back rounded diphthong
+oe,mid back rounded to mid front unrounded diphthong,mid back rounded to mid front unrounded diphthong
+aE,low central unrounded to lower mid front unrounded diphthong,low central unrounded to lower mid front unrounded diphthong
+hW,"labialized voiceless ""h""",labialized voiceless glottal fricative
+hJ,"palatalized voiceless ""h""",palatalized voiceless glottal fricative
+h*,"laryngealized voiceless ""h""",laryngealized voiceless glottal fricative
+h,"voiceless ""h""",voiceless glottal fricative
+hh,"voiced ""h""",voiced glottal fricative
+h2,"voiced ""h""",voiced glottal fricative
