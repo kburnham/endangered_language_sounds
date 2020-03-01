@@ -74,5 +74,36 @@ phoneme_descriptions <- phoneme_descriptions %>%
                                        TRUE ~ description_fixed))
 
 
-write_csv(phoneme_descriptions, '~/endangered_language_sounds/phoneme_description.csv')
+write_csv(phoneme_descriptions, '~/endangered_language_sounds/phoneme_descriptions.csv')
 
+
+## now parse the UPSID_MATRIX.txt file to create a data.frame with two columns (language, phoneme) and one row per language phoneme
+# pair 
+
+upsid_matrix_file <- '~/endangered_language_sounds/upsid_data/UPSID_MATRIX.txt'
+
+upsid_raw = read_file(upsid_matrix_file)
+
+langs <- str_split(upsid_raw, pattern = '\n') %>% flatten()
+langs_split <- map(langs, ~str_split(., pattern = '\t'))
+
+
+langs_split <- map(langs_split, ~flatten_chr(.))
+lang_list <- langs_split %>% map(function(x) {
+  language_name = x[1]
+  phonemes = x[2:length(x)]
+  phonemes = phonemes[phonemes != ""]
+  phonemes = list(phonemes)
+  names(phonemes) = language_name
+  return(phonemes)
+})
+
+
+ll <- flatten(lang_list)
+inventory <- map2_df(ll, names(ll), function(x,y) {
+  data.frame(language = rep(y, length(x)),
+             phoneme = x)}
+)
+
+
+write_csv(inventory, '~/endangered_language_sounds/phoneme_inventories.csv')
